@@ -1,10 +1,11 @@
 <header>
 
-
-   Author notes: Course header 
+<!--
+  <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
+-->
 
 # Resolve merge conflicts
 
@@ -12,11 +13,11 @@ _Learn why conflicts happen and how to resolve them._
 
 </header>
 
-
-   Author notes: Step 3 
+<!--
+  <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
-
+-->
 
 ## Step 3: Create your own conflict
 
